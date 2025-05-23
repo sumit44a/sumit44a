@@ -18,6 +18,9 @@
 **sumit44a/sumit44a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-I’m Sumit Singh, a Power BI Developer passionate about data-driven decisions.<br>Built the Business Intelligence 360 dashboard, boosting sales by 15% and saving $2M in supply chain costs.<br>Certified in Get Job Ready: Power BI Data Analytics by @Codebasics (GUID: CB-49-18400, May 22, 2025—just yesterday!).<br>Created the Business Insights 360 dashboard and learned Microsoft Fabric, scoring over 70%.<br>Also certified in Excel: Mother of Business Intelligence by @Codebasics (GUID: CB-51-18400, Jun 2023).<br>Mastered Excel analytics with 1M+ record datasets, using pivot tables and formulas.<br>Skilled in Power BI, DAX, Power Query, SQL, and Microsoft Fabric for impactful insights.<br>Delivered 81% forecast accuracy in BI 360, aligning finance, sales, and supply chain teams.<br>Thanks, @Codebasics, for enhancing my analytics journey!<br>Let’s connect to turn data into growth for your business!
+* I’m Sumit Singh, a Power BI Developer passionate about data-driven decisions, skilled in Power BI, DAX, Power Query, SQL, and Microsoft Fabric.
+* Built the Business Intelligence 360 dashboard, boosting sales by 15%, saving $2M in supply chain costs, and achieving 81% forecast accuracy.
+* Certified in Get Job Ready: Power BI Data Analytics by @Codebasics (GUID: CB-49-18400, May 22, 2025—just yesterday!), creating Business Insights 360 and learning Microsoft Fabric with over 70%.
+* Also certified in Excel: Mother of Business Intelligence by @Codebasics (GUID: CB-51-18400, Jun 2023), mastering Excel analytics with 1M+ record datasets using pivot tables and formulas.
+          Thanks, @Codebasics, for enhancing my analytics journey—let’s connect to turn data into growth for your business!
 -->
