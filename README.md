@@ -1,4 +1,4 @@
-![YOUR AlT Text] (bg.jpg)
+![YOUR AlT Text](bg.jpg)
 
 ## Hi there I'm Sumit Singh👋
 
